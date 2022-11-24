@@ -31,7 +31,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_drive_client: ^1.0.3
 
 
   # The following adds the Cupertino Icons font to your application.
